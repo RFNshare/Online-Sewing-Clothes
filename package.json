@@ -1,0 +1,24 @@
+{
+  "name": "online_sewing_clothes",
+  "version": "1.0.0",
+  "description": "Online Sewing Clothing",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RFNshare/Online-Sewing-Clothes.git"
+  },
+  "author": "Abdullah Al Faroque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RFNshare/Online-Sewing-Clothes/issues"
+  },
+  "homepage": "https://github.com/RFNshare/Online-Sewing-Clothes#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
